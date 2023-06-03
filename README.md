@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dawid Gach</h1>
 <h3 align="center">A passionate computer scientist from Poland</h3>
-<img align='right' width='400' alt='burning pc' src='https://media0.giphy.com/media/Epa9ramvNwSMy4xJZ4/giphy.gif?cid=6c09b952tauxozzoykdb785w8ymlil85qdordktusonqwfp3&ep=v1_stickers_related&rid=giphy.gif&ct=s'>
-<br/><br/><br/><br/><br/><br/>
+<img align='right' width='250' alt='burning pc' src='https://media0.giphy.com/media/Epa9ramvNwSMy4xJZ4/giphy.gif?cid=6c09b952tauxozzoykdb785w8ymlil85qdordktusonqwfp3&ep=v1_stickers_related&rid=giphy.gif&ct=s'>
+<br/><br/><br/><br/>
 🔭 I’m currently working on **Chess Web App**
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 📫 How to reach me **dawi6p@gmail.com**
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
